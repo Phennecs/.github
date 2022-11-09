@@ -1,6 +1,6 @@
 # Description
 
-Place the description of the issue and how it is solved
+Place the description of the issue and how it is solved.
 
 # Resolves
 
